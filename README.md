@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marialice Hilt</h1>
 <h3 align="center">A passionate frontend developer from Charlotte, NC.</h3>
 
-- 🔭 I’m currently working on **Guess the Word**
-
-- 👯 I’m looking to collaborate on **Wordle Clone**
-
 <p align="left">
 </p>
 
