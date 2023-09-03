@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marialice Hilt</h1>
-<h3 align="center">A passionate frontend developer from Charlotte, NC.</h3>
+<h3 align="center">A frontend developer from Charlotte, NC.</h3>
 
 <p align="left">
 </p>
